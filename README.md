@@ -3,5 +3,5 @@
 ### 1. Disease-Prediction
 
 
-### 2.Lego Brick Code Problem
+### 2. Lego Brick Code Problem
 
